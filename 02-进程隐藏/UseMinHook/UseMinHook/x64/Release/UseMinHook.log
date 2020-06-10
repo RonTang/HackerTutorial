@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  dllmain.cpp
+dllmain.cpp(73): warning C4311: “类型转换”: 从“HANDLE”到“DWORD”的指针截断
+dllmain.cpp(73): warning C4302: “类型转换”: 从“HANDLE”到“DWORD”截断
+  正在生成代码
+  All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  UseMinHook.vcxproj -> E:\Users\Ron\source\repos\UseMinHook\x64\Release\UseMinHook.dll
+  UseMinHook.vcxproj -> E:\Users\Ron\source\repos\UseMinHook\x64\Release\UseMinHook.pdb (Full PDB)
