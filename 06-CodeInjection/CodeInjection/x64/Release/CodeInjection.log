@@ -1,0 +1,6 @@
+﻿  CodeInjection.cpp
+e:\users\ron\source\repos\codeinjection\codeinjection\codeinjection.cpp(75): warning C4244: “=”: 从“DWORD64”转换到“DWORD”，可能丢失数据
+  正在生成代码
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CodeInjection.vcxproj -> E:\Users\Ron\source\repos\CodeInjection\x64\Release\CodeInjection.exe
