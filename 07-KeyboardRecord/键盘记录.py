@@ -1,3 +1,4 @@
+#注意此代码不能正确获取QQ密码的记录，如果需要请自行探索，在此不公开细节。
 import win32con
 import ctypes
 from ctypes import *
